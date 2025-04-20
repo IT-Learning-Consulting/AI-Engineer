@@ -1,8 +1,33 @@
-""" """
+"""
+This script uses LlamaIndex to load and query a Wikipedia article about Warhammer Fantasy Roleplay publications.
 
-from llama_index.core import Document, SummaryIndex
+It includes:
+- Loading the Wikipedia article with auto-suggest disabled.
+- Parsing the content into nodes using SimpleFileNodeParser.
+- Creating a SummaryIndex for fast retrieval.
+- Enabling an interactive query loop to ask questions about different editions.
+
+Author: Danny
+Date: 2025-04-20
+Version: 1.0
+"""
+
+from llama_index.core import Document, SummaryIndex, Settings
+from llama_index.llms.openai import OpenAI
 from llama_index.core.node_parser import SimpleFileNodeParser
 from llama_index.readers.wikipedia import WikipediaReader
+import logging
+
+logging.basicConfig(level=logging.DEBUG)
+
+# Initialize the OpenAI LLM with GPT-4.1-Nano
+llm = OpenAI(model="gpt-4.1-nano-2025-04-14")
+
+# Set the LLM in LlamaIndex settings
+Settings.llm = llm
+
+# Optional: Confirm the model being used
+print("Model in use:", Settings.llm.model)
 
 # Step 1, load the wikipedia article
 loader = WikipediaReader()

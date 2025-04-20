@@ -13,8 +13,12 @@ Date: 2025-04-20
 Version: 1.0
 """
 
-from llama_index.core import Document, SummaryIndex
+from llama_index.core import Document, SummaryIndex, Settings
 from llama_index.core.schema import TextNode
+import llama_setting
+
+
+print("Model in use:", Settings.llm.model)
 
 nodes = [
     TextNode(text="Lionel Messi is a football player from Argentina"),
