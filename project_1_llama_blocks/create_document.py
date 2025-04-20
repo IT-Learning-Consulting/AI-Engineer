@@ -1,5 +1,14 @@
 """
-Create a Llama document manually
+This script demonstrates how to manually create Document instances using the LlamaIndex library.
+
+It includes:
+- Example 1: A document with sample text and metadata for general content.
+- Example 2: A test document showcasing how to define text, metadata, and an ID manually.
+- A document stream (list of Document objects) that can be used for further indexing or processing.
+
+Author(s): Danny
+Date: 2025-04-19
+Version: 1.0
 """
 
 from llama_index.core import Document

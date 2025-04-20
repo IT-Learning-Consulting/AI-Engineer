@@ -1,5 +1,15 @@
 """
-Create a Llama text node manually
+This script demonstrates how to manually create TextNode instances using the LlamaIndex library.
+
+It includes:
+- Example 1: Creating nodes by slicing a simple document.
+- Example 2: Loading a Wikipedia article and splitting the text into multiple nodes manually.
+
+Useful for understanding how TextNodes relate to Documents and how to prepare custom nodes for indexing.
+
+Author: Danny
+Date: 2025-04-19
+Version: 1.0
 """
 
 from llama_index.core import Document
