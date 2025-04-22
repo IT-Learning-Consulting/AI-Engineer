@@ -28,7 +28,7 @@ loader = YoutubeTranscriptReader()
 
 documents = loader.load_data(
     ytlinks=[
-        "https://www.youtube.com/watch?v=ctAOL7WyEUY&list=PLG49S3nxzAnnes8ZGI-OBlKEukHCX46N8&index=45"
+        "https://www.youtube.com/watch?v=nhNlrB8yiSU&list=PLG49S3nxzAnnOmvg5UGVenB_qQgsh01uC&index=46"
     ]
 )
 
