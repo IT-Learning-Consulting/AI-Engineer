@@ -28,7 +28,7 @@ print("Model in use:", Settings.llm.model)
 
 reader = FlatReader()
 
-document = reader.load_data(Path("../files/documents/traps.md"))
+document = reader.load_data(Path("../files/documents/the_empire.md"))
 
 splitter = SentenceSplitter(chunk_size=50, chunk_overlap=0)
 nodes = splitter.get_nodes_from_documents(document)
