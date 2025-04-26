@@ -1,0 +1,3136 @@
+Node 0:
+c/o Colonel Reikhardt Mathis Sievers of the Imperial Ostlanders Wolfenburg's 2nd Regiment of Foot Stationed in Khypris The Border Princes ~
+
+32nd Sigmarz eit, 2511 I C
+
+My Lord Konrad von Siert, Baron of Siert and Castellan of Ostergrootsch, Greetings and salutations, ~ ~
+
+Herein find a summons and general information concerning the Empire, your homeland.
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 0)
+LENGTH: 357
+
+--------------------------------------------------
+
+Node 1:
+I am instructed to inform you that your lord and father, Duke Ottokar von Siert, officially recognises your claim to inherit his land and titles within the Reikland, and orders you to his side. Your exile in the Border Princes is at an end, and you must make immediate preparations for departure. ~ ~
+
+In his wisdom, your father has employed an armed escort to assist. I am in command, and, Sigmar willing, will arrive sometime near Sonnestill.
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 1)
+LENGTH: 444
+
+--------------------------------------------------
+
+Node 2:
+You will leave with us for the Imperial capital the following morning. Surely, such news will fill your young heart with joy, for you will finally witness the splendour of the greatest city in the Old World: Altdorf the magnificent, seat of Emperor Karl-Franz I and the Grand Theogonist of Sigmar, and current residence of House Siert, where your father holds court not far from the Imperial Zoo on Goellner Hill. ~
+
+I shall also take your education in hand.
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 2)
+LENGTH: 458
+
+--------------------------------------------------
+
+Node 3:
+Those advising your father believe the present tuition you receive from Colonel Sievers, whilst certainly admirable, is too focussed on southern matters as epitomised by Holy Myrmidia - a goddess without reproach when it comes to the military, I'm sure, but hardly an expert concerning Reiklander rulership. It was decided by your father's advisors that a true devotee of Sigmar - the Empire's patron deity - should promptly take charge of your education. Your father, of course, agreed, for the Cult of Sigmar should always be heeded.
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 3)
+LENGTH: 535
+
+--------------------------------------------------
+
+Node 4:
+~ ~ ~
+
+Sadly, I must report poor Sister Bartalin, the nun assigned to this important duty, passed through Morr's Portal when our party was but five days from Altdorf. She was the victim of a most unfortunate accident involving a bedpan, a wilted stick of celery, and a nasty fall. Thus, I humbly take her stead. For, no matter my feelings on the subject, your schooling is imperative; you have yet to set foot in the Empire, and you will be lost without proper instruction.
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 4)
+LENGTH: 473
+
+--------------------------------------------------
+
+Node 5:
+~ ~
+
+Before we begin, let us turn to introductions: I am Guardian Alanna Graumann of the Grey Order - and let me pre-empt your assumptions: yes, I am a witch; and, yes, my name is a pseudonym. I have been in the service of your father for over fifteen years, acting as an aide, military advisor, and bodyguard, amongst other things, and am now charged to ensure you, his newly declared heir, reach Altdorf alive.
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 5)
+LENGTH: 412
+
+--------------------------------------------------
+
+Node 6:
+To guarantee this I will, as mentioned, attend to your education, which will start immediately. ~ ~ ~ ~
+
+#### Forget What You Know
+
+There are several matters I would have you consider before I arrive in Khypris. You likely think life in the Empire will be much the same as the sunny lifestyle you currently enjoy in the Border Princes - after all, there are the same eight days in the week, the same sun and moons, and the same gods.
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 6)
+LENGTH: 433
+
+--------------------------------------------------
+
+Node 7:
+I regret to inform you such presumptions are incorrect: the Empire is not like the Border Princes, and you are ill-prepared for the threats it hides. Put plainly: you are not safe, and most of what you think you know will lead you to danger. ~ ~
+
+#### The Gods
+
+As you know, throughout the Old World folk freely worship many different gods, most commonly those directly impacting their daily lives.
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 7)
+LENGTH: 398
+
+--------------------------------------------------
+
+Node 8:
+So, if someone is hurt, one prays to Shallya, Goddess of Healing and Mercy; when a hunt fails, one prays to Taal, God of Animals and Wild Places; and if crops should wither, one turns to Rhya, Goddess of Life and Fertility.
+
+But in your homeland, one god rises head and shoulders above the others: Sigmar, who founded the Empire when mortal, and now stands as its patron deity.
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 8)
+LENGTH: 377
+
+--------------------------------------------------
+
+Node 9:
+In the grand province where your lands lie, the Reikland, the Cult of Sigmar dominates: every village has a temple, every town has several, and the capital, Altdorf, has more holy sites dedicated to Sigmar than any bother to count. Each Festag (what the locals call the last day of the week - the one you call 'Holiday'), all are expected to attend 'throng' at a local temple, where Sigmar's priests preach lessons concerning the founder of the Empire, he who wielded the Warhammer.
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 9)
+LENGTH: 482
+
+--------------------------------------------------
+
+Node 10:
+Further, many temples require all able-bodied folk to train at arms weekly with the local priests or their representatives, forming the core of local militias to support the State Armies. In larger towns and cities, it is only the faithful and the lost that attend these weekly duties, but in rural areas, any not attending are viewed with deep suspicion. Trust me, my lord, this is a cult you will need to understand, for most folk of the Reikland are ingrained with its customs, and you must appear to be, also.
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 10)
+LENGTH: 513
+
+--------------------------------------------------
+
+Node 11:
+You may think you understand Sigmar because there is a shrine in Khypris. You do not. ~ ~ ~ ~
+
+#### Witches
+
+One cannot talk of Sigmar without also discussing witches - those able to use magic. Obviously, it's a subject close to my heart, although I prefer to be called a Magister, as I am trained by the Colleges of Magic. The folk of the Empire, like all peoples of the Old World, are solid and practical, and quick to remove dangerous elements from their communities.
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 11)
+LENGTH: 470
+
+--------------------------------------------------
+
+Node 12:
+Given the Cult of Sigmar preaches that Sigmar was tempted and betrayed by evil witches, it will come as no surprise that in areas of strong Sigmar worship, witches are not just viewed with suspicion, they are vilified. Fortunately, the talent for witchery is very rare, but for those born with it any unexpected manifestation of their arcane powers may see them burned at the stake, even if Imperial Law states they should be taken to the Colleges of Magic.
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 12)
+LENGTH: 457
+
+--------------------------------------------------
+
+Node 13:
+~ ~ ~
+
+#### The Colleges of Magic
+
+There is no formal centre of magical learning in the Border Princes. Those able to do magic either work it out independently, accidentally kill themselves, are hunted down, or find a master to teach them. Most such masters practice ancient forms of magic that are certainly dangerous, ranging from supposedly benign hedge witches and seers to those who risk their very souls, including power-blinded fools like necromancers and daemonologists. In the Empire, it's very different.
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 13)
+LENGTH: 514
+
+--------------------------------------------------
+
+Node 14:
+To practice any magic you must have a licence, and the only way to secure one is to be a graduated Wizard of the Colleges of Magic in Altdorf, or be an Elf -they receive special dispensation for their part in founding the Colleges - assuming they register with the Colleges, of course. If you have no licence and cast magic, you are breaking the law and should be either taken to the Colleges for proper training or tried as a criminal. Most commonly, illegal witches are tried by mob and lynched.
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 14)
+LENGTH: 497
+
+--------------------------------------------------
+
+Node 15:
+Which, to be clear, is also illegal, although few are punished for this crime as most would prefer to see a witch dead, regardless of the legality. While murdering suspected witches may sound extreme to your ears, there are good reasons for caution: all witches channel the Winds of Magic, invisible flows of power that course across the world, and many claim these Winds originate from the Ruinous Powers. ~ ~ ~ ~ ~
+
+#### The Ruinous Powers
+
+The less I speak of this the better, and might I suggest you never speak of it.
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 15)
+LENGTH: 522
+
+--------------------------------------------------
+
+Node 16:
+There is always something listening. At its simplest, whatever your current tutors pretend, the dark gods do exist. They whisper of the ruination of all things, and too many fools listen. But do the Winds of Magic blow from the Ruinous Powers, turning good folk into witches, and twisting minds and flesh in their wake ? That's not a question I think I can answer. What I can say is that the dark gods' influence is felt at all levels of society, and those drawing too close are always changed by what they encounter.
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 16)
+LENGTH: 517
+
+--------------------------------------------------
+
+Node 17:
+This is why folk are terrified of mutation: they believe it is a mark of damnation, a sign the dark gods now hold your soul. Even talking in the most general terms about such subjects may well bring you to the attention of the witch hunters, so remain wary for signs of this dark corruption but do not betray that you are even aware of its existence. ~ ~ ~
+
+#### The Powers That Be
+
+'In the Borderlands, all may come to power, and all may come to rule! In the Empire, we willingly wrap ourselves in chains!'
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 17)
+LENGTH: 507
+
+--------------------------------------------------
+
+Node 18:
+~
+
+Those were the ardent words of a young, idealistic agitator I met in Wissenburg. Consider what she says, for you will soon encounter those who believe it true. In the Empire, you are born to a station, and no amount of cleverness or capability will change what the gods plan, or so those in power repeatedly claim. If you are born noble, you are forever noble; born farming, forever farming. And so it remains.
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 18)
+LENGTH: 413
+
+--------------------------------------------------
+
+Node 19:
+But as you personally know, my lord, the chance offerings of birth can be changed and manipulated by forces far from divine. And even in the Empire, new freedoms are being bought every day. ~
+
+#### The Cities and Towns
+
+For all the stratified layers of society are supposedly immutable, the flourishing towns and cities of the Empire, safely wrapped with high walls of stone and patrolled by liveried State Soldiers, have allowed a new class of rich merchants and burghers to rise.
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 19)
+LENGTH: 481
+
+--------------------------------------------------
+
+Node 20:
+The Reikland, as the richest of all the Empire's grand provinces, has a growing 'middle' class of such enormity it frequently rises to prominence, with rich individuals buying their way to freedom and power. An example of this are towns called 'Freiburgs' or 'free towns', meaning they selfgovern without significant interference from the nobility in return for services, military support, or, most commonly, large quantities of coin.
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 20)
+LENGTH: 434
+
+--------------------------------------------------
+
+Node 21:
+Although the concept of a Freiburg is old, never have so many been seen in such a small area as increasingly more towns are buying their freedom; although all this seemingly changes nothing for those toiling in the fields. ~ ~ ~
+
+#### Rural Life ~
+
+Where the towns and cities are becoming freer, it could be argued the opposite is the case for many rural communities.
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 21)
+LENGTH: 367
+
+--------------------------------------------------
+
+Node 22:
+Over two hundred years ago, Emperor Magnus the Pious famously enshrined the rights of all to be paid for their labour, but many noble houses did not agree with this attack on their rights and continue to resist to this day. ~
+
+Enlightened provinces such as the lands ruled by your father, where farmers work land they lease, selling any produce they harvest at local markets for personal profit, paying taxes as determined by the local authorities, are widespread.
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 22)
+LENGTH: 464
+
+--------------------------------------------------
+
+Node 23:
+But in some isolated regions the peasantry are forced to slave on farms they do not own, turning over almost all produce to their lieges, living in total ignorance of the freedoms the Imperial Law grants them. Many folk will put up with a lot so long as horns echo across the land each campaign season as noble lords send the State Army to rid the encroaching forest of whatever foulness has gathered.
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 23)
+LENGTH: 401
+
+--------------------------------------------------
+
+Node 24:
+~ ~ ~ ~
+
+And it is there one of the greatest differences between your current home in Khypris and Sigmar's Holy Empire lies: the endless forests. The Empire is blanketed in dense woodlands, and few dare venture into their depths, for their twisted branches hide far worse than simple bandits, beastmen, and forest goblins. ~
+
+#### Travel
+
+Bisecting the Border Princes, the Khyprian Road is famous for its relative safety.
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 24)
+LENGTH: 421
+
+--------------------------------------------------
+
+Node 25:
+Its entire six-hundred mile length is cleared on both sides for many miles, ensuring would-be bandits have few places to hide. The opposite circumstances apply in the Empire. Almost all the major roads cut through thick forests with uncounted ambush points, leaving travel by foot extraordinarily dangerous.
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 25)
+LENGTH: 307
+
+--------------------------------------------------
+
+Node 26:
+Thus, wealthy folk travel by river as most major towns are connected by river or canal, and the major waterways of the Empire are often so wide you can barely see the opposite banks - let alone any potential wreckers hiding in the rushes - making them significantly safer than tree-lined highways where bandits lurk around every corner. ~ ~ ~ ~ ~
+
+Of course, sometimes a road journey is the only option, especially when one is travelling to one of the many highland fortifications or mining towns. In such circumstances, I recommend you travel by coach.
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 26)
+LENGTH: 553
+
+--------------------------------------------------
+
+Node 27:
+These not only provide comfortable travelling conditions between all major destinations, but their routes are patrolled by road wardens, making them relatively safe. The Empire is also significantly more civilised than the Border Princes, so boasts many reliable coaching houses. ~ ~ ~
+
+#### Patrols
+
+Recognising the threat posed by highway pillagers, all the major roads of the Reikland are patrolled by mounted squads of road wardens.
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 27)
+LENGTH: 436
+
+--------------------------------------------------
+
+Node 28:
+Most are peacetime State Army cavalrymen put to use by local nobles, but some are privately hired, often by merchant or coaching houses, to better maintain the peace and protect expensive assets. When travelling away from the primary trade routes, the roads are not so well maintained, and some are lucky to ever see a road warden, so I suggest avoiding these dark corners of the Empire, for the local folk are often all-too-quick to take offense, all your trappings, and perhaps even your life.
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 28)
+LENGTH: 495
+
+--------------------------------------------------
+
+Node 29:
+~ ~ ~
+
+The rivers are similarly patrolled, but by strong-backed riverwardens in a variety of different vessels ranging from small patrol boats to small warships called Shipswords. These wardens are supported by the Imperial Navy, which is, against all the expectations of outsiders, based in the Reiksport at Altdorf, hundreds of miles upriver from the sea. The navy's large warships patrol the waters to Marienburg, where the river Reik is often many miles wide, and very deep.
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 29)
+LENGTH: 478
+
+--------------------------------------------------
+
+Node 30:
+~
+
+#### The Law
+
+The powers granted to wardens patrolling the rivers and roads, and to the watch patrolling the streets of the Empire's towns and cities, vary significantly from province to province. Small infractions of the law normally result in stern words and spot fines, most of which never leave the pocket of the lawman concerned.
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 30)
+LENGTH: 337
+
+--------------------------------------------------
+
+Node 31:
+In larger towns and cities, it is also common to find petty courts run by watch captains who judge cases brought before them, handing out fines of a shilling or two for most misdeeds, with serious crimes referred to a higher authority. For such crimes, the accused is taken before a local court, most commonly officiated by a judge, noble, magistrate, or a cleric of the Goddess of Justice, Verena. These trials are rarely fair, so it is wise to never let matters proceed so far.
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 31)
+LENGTH: 479
+
+--------------------------------------------------
+
+Node 32:
+~
+
+As a lord of the Reikland, you cannot be tried by a normal court, so should you ever find yourself accused, do not be afraid to make your birthright known. Should I not be with you, send word to the Grey College and ask for me by name. I will come. To be sure you understand, only your father, as your lord, has the right to judge you.
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 32)
+LENGTH: 338
+
+--------------------------------------------------
+
+Node 33:
+However, another noble may appeal against your father's judgement; should this occur, only the High Lord Steward of the Reikland has the right to overrule your father in matters of criminal law. ~
+
+But such almost never happens. The High Lord Steward has not held court for over fifty years, for most nobles are too powerful to bring to task. Instead, deals are made, charges are dropped, and the problems disappear.
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 33)
+LENGTH: 416
+
+--------------------------------------------------
+
+Node 34:
+#### Be Careful
+
+So, given the many risks, I hope you can understand why your father sends an escort to ensure your safety. Your inexperience with the folk of the Empire could easily lead to disaster. For all you may think a local watchman is there to help you, or a riverwarden seems a helpful fellow, they may be as corrupt as the folk they are tasked to detain. This is why I come. Let my experience be your teacher, so you need not learn from your own errors, which could prove fatal.
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 34)
+LENGTH: 488
+
+--------------------------------------------------
+
+Node 35:
+There is a reason I use a pseudonym, and why I feel it is important not to say aught openly. ~
+
+There is, after all, hidden motivations behind all matters. Even this letter. ~
+
+I look forward to seeing you when you understand. Be careful.
+
+With faith,
+
+A Grau ma n n
+
+Grey Guardian Alanna Graumann Your servant and guardian.
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 35)
+LENGTH: 324
+
+--------------------------------------------------
+
+Node 36:
+c/o Colonel Reikhardt Mathis Sievers of the Imperial Ostlanders Wolfenburg's 2nd Regiment of Foot Stationed in Khypris The Border Princes ~
+
+32nd Sigmarz eit,
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 36)
+LENGTH: 158
+
+--------------------------------------------------
+
+Node 37:
+2511 I C
+
+My Lord Konrad von Siert, Baron of Siert and Castellan of Ostergrootsch, Greetings and salutations, ~ ~
+
+Herein find a summons and general information concerning the Empire, your homeland.
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 37)
+LENGTH: 198
+
+--------------------------------------------------
+
+Node 38:
+I am instructed to inform you that your lord and father, Duke Ottokar von Siert, officially recognises your claim to inherit his land and titles within the Reikland, and orders you to his side.
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 38)
+LENGTH: 193
+
+--------------------------------------------------
+
+Node 39:
+Your exile in the Border Princes is at an end, and you must make immediate preparations for departure. ~ ~
+
+In his wisdom, your father has employed an armed escort to assist.
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 39)
+LENGTH: 174
+
+--------------------------------------------------
+
+Node 40:
+I am in command, and, Sigmar willing, will arrive sometime near Sonnestill.
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 40)
+LENGTH: 75
+
+--------------------------------------------------
+
+Node 41:
+You will leave with us for the Imperial capital the following morning. Surely, such news will fill your young heart with joy, for you will finally witness the splendour of the greatest city in the Old World: Altdorf the magnificent,
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 41)
+LENGTH: 232
+
+--------------------------------------------------
+
+Node 42:
+seat of Emperor Karl-Franz I and the Grand Theogonist of Sigmar, and current residence of House Siert, where your father holds court not far from the Imperial Zoo on Goellner Hill.
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 42)
+LENGTH: 180
+
+--------------------------------------------------
+
+Node 43:
+~
+
+I shall also take your education in hand.
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 43)
+LENGTH: 44
+
+--------------------------------------------------
+
+Node 44:
+Those advising your father believe the present tuition you receive from Colonel Sievers, whilst certainly admirable, is too focussed on southern matters as epitomised by Holy Myrmidia - a goddess without reproach when it comes to the military, I'm sure,
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 44)
+LENGTH: 253
+
+--------------------------------------------------
+
+Node 45:
+but hardly an expert concerning Reiklander rulership. It was decided by your father's advisors that a true devotee of Sigmar - the Empire's patron deity - should promptly take charge of your education.
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 45)
+LENGTH: 201
+
+--------------------------------------------------
+
+Node 46:
+Your father, of course, agreed, for the Cult of Sigmar should always be heeded.
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 46)
+LENGTH: 79
+
+--------------------------------------------------
+
+Node 47:
+~ ~ ~
+
+Sadly, I must report poor Sister Bartalin, the nun assigned to this important duty, passed through Morr's Portal when our party was but five days from Altdorf.
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 47)
+LENGTH: 166
+
+--------------------------------------------------
+
+Node 48:
+She was the victim of a most unfortunate accident involving a bedpan, a wilted stick of celery, and a nasty fall. Thus, I humbly take her stead.
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 48)
+LENGTH: 144
+
+--------------------------------------------------
+
+Node 49:
+For, no matter my feelings on the subject, your schooling is imperative; you have yet to set foot in the Empire, and you will be lost without proper instruction.
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 49)
+LENGTH: 161
+
+--------------------------------------------------
+
+Node 50:
+~ ~
+
+Before we begin, let us turn to introductions: I am Guardian Alanna Graumann of the Grey Order - and let me pre-empt your assumptions: yes, I am a witch; and, yes, my name is a pseudonym.
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 50)
+LENGTH: 192
+
+--------------------------------------------------
+
+Node 51:
+I have been in the service of your father for over fifteen years, acting as an aide, military advisor, and bodyguard, amongst other things, and am now charged to ensure you, his newly declared heir, reach Altdorf alive.
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 51)
+LENGTH: 219
+
+--------------------------------------------------
+
+Node 52:
+To guarantee this I will, as mentioned, attend to your education, which will start immediately. ~ ~ ~ ~
+
+#### Forget What You Know
+
+There are several matters I would have you consider before I arrive in Khypris.
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 52)
+LENGTH: 211
+
+--------------------------------------------------
+
+Node 53:
+You likely think life in the Empire will be much the same as the sunny lifestyle you currently enjoy in the Border Princes - after all, there are the same eight days in the week, the same sun and moons, and the same gods.
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 53)
+LENGTH: 221
+
+--------------------------------------------------
+
+Node 54:
+I regret to inform you such presumptions are incorrect: the Empire is not like the Border Princes, and you are ill-prepared for the threats it hides.
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 54)
+LENGTH: 149
+
+--------------------------------------------------
+
+Node 55:
+Put plainly: you are not safe, and most of what you think you know will lead you to danger.
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 55)
+LENGTH: 91
+
+--------------------------------------------------
+
+Node 56:
+~ ~
+
+#### The Gods
+
+As you know, throughout the Old World folk freely worship many different gods, most commonly those directly impacting their daily lives.
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 56)
+LENGTH: 156
+
+--------------------------------------------------
+
+Node 57:
+So, if someone is hurt, one prays to Shallya, Goddess of Healing and Mercy; when a hunt fails, one prays to Taal, God of Animals and Wild Places; and if crops should wither, one turns to Rhya,
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 57)
+LENGTH: 192
+
+--------------------------------------------------
+
+Node 58:
+Goddess of Life and Fertility.
+
+But in your homeland, one god rises head and shoulders above the others: Sigmar, who founded the Empire when mortal, and now stands as its patron deity.
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 58)
+LENGTH: 184
+
+--------------------------------------------------
+
+Node 59:
+In the grand province where your lands lie, the Reikland, the Cult of Sigmar dominates: every village has a temple, every town has several, and the capital, Altdorf,
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 59)
+LENGTH: 165
+
+--------------------------------------------------
+
+Node 60:
+has more holy sites dedicated to Sigmar than any bother to count. Each Festag (what the locals call the last day of the week - the one you call 'Holiday'), all are expected to attend 'throng' at a local temple,
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 60)
+LENGTH: 210
+
+--------------------------------------------------
+
+Node 61:
+where Sigmar's priests preach lessons concerning the founder of the Empire, he who wielded the Warhammer.
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 61)
+LENGTH: 105
+
+--------------------------------------------------
+
+Node 62:
+Further, many temples require all able-bodied folk to train at arms weekly with the local priests or their representatives, forming the core of local militias to support the State Armies.
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 62)
+LENGTH: 187
+
+--------------------------------------------------
+
+Node 63:
+In larger towns and cities, it is only the faithful and the lost that attend these weekly duties, but in rural areas, any not attending are viewed with deep suspicion.
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 63)
+LENGTH: 167
+
+--------------------------------------------------
+
+Node 64:
+Trust me, my lord, this is a cult you will need to understand, for most folk of the Reikland are ingrained with its customs, and you must appear to be, also.
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 64)
+LENGTH: 157
+
+--------------------------------------------------
+
+Node 65:
+You may think you understand Sigmar because there is a shrine in Khypris. You do not. ~ ~ ~ ~
+
+#### Witches
+
+One cannot talk of Sigmar without also discussing witches - those able to use magic.
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 65)
+LENGTH: 193
+
+--------------------------------------------------
+
+Node 66:
+Obviously, it's a subject close to my heart, although I prefer to be called a Magister, as I am trained by the Colleges of Magic.
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 66)
+LENGTH: 129
+
+--------------------------------------------------
+
+Node 67:
+The folk of the Empire, like all peoples of the Old World, are solid and practical, and quick to remove dangerous elements from their communities.
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 67)
+LENGTH: 146
+
+--------------------------------------------------
+
+Node 68:
+Given the Cult of Sigmar preaches that Sigmar was tempted and betrayed by evil witches, it will come as no surprise that in areas of strong Sigmar worship, witches are not just viewed with suspicion, they are vilified.
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 68)
+LENGTH: 218
+
+--------------------------------------------------
+
+Node 69:
+Fortunately, the talent for witchery is very rare, but for those born with it any unexpected manifestation of their arcane powers may see them burned at the stake, even if Imperial Law states they should be taken to the Colleges of Magic.
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 69)
+LENGTH: 238
+
+--------------------------------------------------
+
+Node 70:
+~ ~ ~
+
+#### The Colleges of Magic
+
+There is no formal centre of magical learning in the Border Princes. Those able to do magic either work it out independently, accidentally kill themselves, are hunted down, or find a master to teach them.
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 70)
+LENGTH: 239
+
+--------------------------------------------------
+
+Node 71:
+Most such masters practice ancient forms of magic that are certainly dangerous, ranging from supposedly benign hedge witches and seers to those who risk their very souls, including power-blinded fools like necromancers and daemonologists. In the Empire, it's very different.
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 71)
+LENGTH: 274
+
+--------------------------------------------------
+
+Node 72:
+To practice any magic you must have a licence, and the only way to secure one is to be a graduated Wizard of the Colleges of Magic in Altdorf,
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 72)
+LENGTH: 142
+
+--------------------------------------------------
+
+Node 73:
+or be an Elf -they receive special dispensation for their part in founding the Colleges - assuming they register with the Colleges, of course.
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 73)
+LENGTH: 142
+
+--------------------------------------------------
+
+Node 74:
+If you have no licence and cast magic, you are breaking the law and should be either taken to the Colleges for proper training or tried as a criminal. Most commonly, illegal witches are tried by mob and lynched.
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 74)
+LENGTH: 211
+
+--------------------------------------------------
+
+Node 75:
+Which, to be clear, is also illegal, although few are punished for this crime as most would prefer to see a witch dead, regardless of the legality.
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 75)
+LENGTH: 147
+
+--------------------------------------------------
+
+Node 76:
+While murdering suspected witches may sound extreme to your ears, there are good reasons for caution: all witches channel the Winds of Magic, invisible flows of power that course across the world, and many claim these Winds originate from the Ruinous Powers.
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 76)
+LENGTH: 258
+
+--------------------------------------------------
+
+Node 77:
+~ ~ ~ ~ ~
+
+#### The Ruinous Powers
+
+The less I speak of this the better, and might I suggest you never speak of it.
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 77)
+LENGTH: 115
+
+--------------------------------------------------
+
+Node 78:
+There is always something listening. At its simplest, whatever your current tutors pretend, the dark gods do exist. They whisper of the ruination of all things, and too many fools listen.
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 78)
+LENGTH: 187
+
+--------------------------------------------------
+
+Node 79:
+But do the Winds of Magic blow from the Ruinous Powers, turning good folk into witches, and twisting minds and flesh in their wake ? That's not a question I think I can answer.
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 79)
+LENGTH: 176
+
+--------------------------------------------------
+
+Node 80:
+What I can say is that the dark gods' influence is felt at all levels of society, and those drawing too close are always changed by what they encounter.
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 80)
+LENGTH: 152
+
+--------------------------------------------------
+
+Node 81:
+This is why folk are terrified of mutation: they believe it is a mark of damnation, a sign the dark gods now hold your soul.
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 81)
+LENGTH: 124
+
+--------------------------------------------------
+
+Node 82:
+Even talking in the most general terms about such subjects may well bring you to the attention of the witch hunters, so remain wary for signs of this dark corruption but do not betray that you are even aware of its existence.
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 82)
+LENGTH: 225
+
+--------------------------------------------------
+
+Node 83:
+~ ~ ~
+
+#### The Powers That Be
+
+'In the Borderlands, all may come to power, and all may come to rule! In the Empire, we willingly wrap ourselves in chains!'
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 83)
+LENGTH: 156
+
+--------------------------------------------------
+
+Node 84:
+~
+
+Those were the ardent words of a young, idealistic agitator I met in Wissenburg. Consider what she says, for you will soon encounter those who believe it true.
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 84)
+LENGTH: 162
+
+--------------------------------------------------
+
+Node 85:
+In the Empire, you are born to a station, and no amount of cleverness or capability will change what the gods plan, or so those in power repeatedly claim. If you are born noble, you are forever noble; born farming, forever farming.
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 85)
+LENGTH: 231
+
+--------------------------------------------------
+
+Node 86:
+And so it remains.
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 86)
+LENGTH: 18
+
+--------------------------------------------------
+
+Node 87:
+But as you personally know, my lord, the chance offerings of birth can be changed and manipulated by forces far from divine. And even in the Empire, new freedoms are being bought every day.
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 87)
+LENGTH: 189
+
+--------------------------------------------------
+
+Node 88:
+~
+
+#### The Cities and Towns
+
+For all the stratified layers of society are supposedly immutable, the flourishing towns and cities of the Empire, safely wrapped with high walls of stone and patrolled by liveried State Soldiers,
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 88)
+LENGTH: 226
+
+--------------------------------------------------
+
+Node 89:
+have allowed a new class of rich merchants and burghers to rise.
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 89)
+LENGTH: 64
+
+--------------------------------------------------
+
+Node 90:
+The Reikland, as the richest of all the Empire's grand provinces, has a growing 'middle' class of such enormity it frequently rises to prominence, with rich individuals buying their way to freedom and power.
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 90)
+LENGTH: 207
+
+--------------------------------------------------
+
+Node 91:
+An example of this are towns called 'Freiburgs' or 'free towns', meaning they selfgovern without significant interference from the nobility in return for services, military support, or, most commonly, large quantities of coin.
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 91)
+LENGTH: 226
+
+--------------------------------------------------
+
+Node 92:
+Although the concept of a Freiburg is old, never have so many been seen in such a small area as increasingly more towns are buying their freedom; although all this seemingly changes nothing for those toiling in the fields.
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 92)
+LENGTH: 222
+
+--------------------------------------------------
+
+Node 93:
+~ ~ ~
+
+#### Rural Life ~
+
+Where the towns and cities are becoming freer, it could be argued the opposite is the case for many rural communities.
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 93)
+LENGTH: 144
+
+--------------------------------------------------
+
+Node 94:
+Over two hundred years ago, Emperor Magnus the Pious famously enshrined the rights of all to be paid for their labour, but many noble houses did not agree with this attack on their rights and continue to resist to this day.
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 94)
+LENGTH: 223
+
+--------------------------------------------------
+
+Node 95:
+~
+
+Enlightened provinces such as the lands ruled by your father, where farmers work land they lease, selling any produce they harvest at local markets for personal profit, paying taxes as determined by the local authorities, are widespread.
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 95)
+LENGTH: 240
+
+--------------------------------------------------
+
+Node 96:
+But in some isolated regions the peasantry are forced to slave on farms they do not own, turning over almost all produce to their lieges, living in total ignorance of the freedoms the Imperial Law grants them.
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 96)
+LENGTH: 209
+
+--------------------------------------------------
+
+Node 97:
+Many folk will put up with a lot so long as horns echo across the land each campaign season as noble lords send the State Army to rid the encroaching forest of whatever foulness has gathered.
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 97)
+LENGTH: 191
+
+--------------------------------------------------
+
+Node 98:
+~ ~ ~ ~
+
+And it is there one of the greatest differences between your current home in Khypris and Sigmar's Holy Empire lies: the endless forests.
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 98)
+LENGTH: 145
+
+--------------------------------------------------
+
+Node 99:
+The Empire is blanketed in dense woodlands, and few dare venture into their depths, for their twisted branches hide far worse than simple bandits, beastmen, and forest goblins.
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 99)
+LENGTH: 176
+
+--------------------------------------------------
+
+Node 100:
+~
+
+#### Travel
+
+Bisecting the Border Princes, the Khyprian Road is famous for its relative safety.
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 100)
+LENGTH: 98
+
+--------------------------------------------------
+
+Node 101:
+Its entire six-hundred mile length is cleared on both sides for many miles, ensuring would-be bandits have few places to hide. The opposite circumstances apply in the Empire.
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 101)
+LENGTH: 174
+
+--------------------------------------------------
+
+Node 102:
+Almost all the major roads cut through thick forests with uncounted ambush points, leaving travel by foot extraordinarily dangerous.
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 102)
+LENGTH: 132
+
+--------------------------------------------------
+
+Node 103:
+Thus, wealthy folk travel by river as most major towns are connected by river or canal,
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 103)
+LENGTH: 87
+
+--------------------------------------------------
+
+Node 104:
+and the major waterways of the Empire are often so wide you can barely see the opposite banks - let alone any potential wreckers hiding in the rushes - making them significantly safer than tree-lined highways where bandits lurk around every corner.
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 104)
+LENGTH: 248
+
+--------------------------------------------------
+
+Node 105:
+~ ~ ~ ~ ~
+
+Of course, sometimes a road journey is the only option, especially when one is travelling to one of the many highland fortifications or mining towns. In such circumstances, I recommend you travel by coach.
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 105)
+LENGTH: 216
+
+--------------------------------------------------
+
+Node 106:
+These not only provide comfortable travelling conditions between all major destinations, but their routes are patrolled by road wardens, making them relatively safe. The Empire is also significantly more civilised than the Border Princes, so boasts many reliable coaching houses.
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 106)
+LENGTH: 279
+
+--------------------------------------------------
+
+Node 107:
+~ ~ ~
+
+#### Patrols
+
+Recognising the threat posed by highway pillagers, all the major roads of the Reikland are patrolled by mounted squads of road wardens.
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 107)
+LENGTH: 156
+
+--------------------------------------------------
+
+Node 108:
+Most are peacetime State Army cavalrymen put to use by local nobles, but some are privately hired, often by merchant or coaching houses, to better maintain the peace and protect expensive assets. When travelling away from the primary trade routes,
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 108)
+LENGTH: 247
+
+--------------------------------------------------
+
+Node 109:
+the roads are not so well maintained, and some are lucky to ever see a road warden, so I suggest avoiding these dark corners of the Empire, for the local folk are often all-too-quick to take offense, all your trappings,
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 109)
+LENGTH: 219
+
+--------------------------------------------------
+
+Node 110:
+and perhaps even your life.
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 110)
+LENGTH: 27
+
+--------------------------------------------------
+
+Node 111:
+~ ~ ~
+
+The rivers are similarly patrolled, but by strong-backed riverwardens in a variety of different vessels ranging from small patrol boats to small warships called Shipswords.
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 111)
+LENGTH: 179
+
+--------------------------------------------------
+
+Node 112:
+These wardens are supported by the Imperial Navy, which is, against all the expectations of outsiders, based in the Reiksport at Altdorf, hundreds of miles upriver from the sea.
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 112)
+LENGTH: 177
+
+--------------------------------------------------
+
+Node 113:
+The navy's large warships patrol the waters to Marienburg, where the river Reik is often many miles wide, and very deep.
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 113)
+LENGTH: 120
+
+--------------------------------------------------
+
+Node 114:
+~
+
+#### The Law
+
+The powers granted to wardens patrolling the rivers and roads, and to the watch patrolling the streets of the Empire's towns and cities, vary significantly from province to province.
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 114)
+LENGTH: 199
+
+--------------------------------------------------
+
+Node 115:
+Small infractions of the law normally result in stern words and spot fines, most of which never leave the pocket of the lawman concerned.
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 115)
+LENGTH: 137
+
+--------------------------------------------------
+
+Node 116:
+In larger towns and cities, it is also common to find petty courts run by watch captains who judge cases brought before them, handing out fines of a shilling or two for most misdeeds, with serious crimes referred to a higher authority.
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 116)
+LENGTH: 235
+
+--------------------------------------------------
+
+Node 117:
+For such crimes, the accused is taken before a local court, most commonly officiated by a judge, noble, magistrate, or a cleric of the Goddess of Justice, Verena.
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 117)
+LENGTH: 162
+
+--------------------------------------------------
+
+Node 118:
+These trials are rarely fair, so it is wise to never let matters proceed so far.
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 118)
+LENGTH: 80
+
+--------------------------------------------------
+
+Node 119:
+~
+
+As a lord of the Reikland, you cannot be tried by a normal court, so should you ever find yourself accused, do not be afraid to make your birthright known.
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 119)
+LENGTH: 158
+
+--------------------------------------------------
+
+Node 120:
+Should I not be with you, send word to the Grey College and ask for me by name. I will come. To be sure you understand, only your father, as your lord, has the right to judge you.
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 120)
+LENGTH: 179
+
+--------------------------------------------------
+
+Node 121:
+However, another noble may appeal against your father's judgement; should this occur, only the High Lord Steward of the Reikland has the right to overrule your father in matters of criminal law. ~
+
+But such almost never happens.
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 121)
+LENGTH: 228
+
+--------------------------------------------------
+
+Node 122:
+The High Lord Steward has not held court for over fifty years, for most nobles are too powerful to bring to task. Instead, deals are made, charges are dropped, and the problems disappear.
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 122)
+LENGTH: 187
+
+--------------------------------------------------
+
+Node 123:
+#### Be Careful
+
+So, given the many risks, I hope you can understand why your father sends an escort to ensure your safety. Your inexperience with the folk of the Empire could easily lead to disaster.
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 123)
+LENGTH: 200
+
+--------------------------------------------------
+
+Node 124:
+For all you may think a local watchman is there to help you, or a riverwarden seems a helpful fellow, they may be as corrupt as the folk they are tasked to detain. This is why I come.
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 124)
+LENGTH: 183
+
+--------------------------------------------------
+
+Node 125:
+Let my experience be your teacher, so you need not learn from your own errors, which could prove fatal.
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 125)
+LENGTH: 103
+
+--------------------------------------------------
+
+Node 126:
+There is a reason I use a pseudonym, and why I feel it is important not to say aught openly. ~
+
+There is, after all, hidden motivations behind all matters. Even this letter.
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 126)
+LENGTH: 173
+
+--------------------------------------------------
+
+Node 127:
+~
+
+I look forward to seeing you when you understand. Be careful.
+
+With faith,
+
+A Grau ma n n
+
+Grey Guardian Alanna Graumann Your servant and guardian.
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 127)
+LENGTH: 150
+
+--------------------------------------------------
+
+Node 128:
+c/o Colonel Reikhardt Mathis Sievers of the Imperial Ostlanders Wolfenburg's 2nd
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 128)
+LENGTH: 80
+
+--------------------------------------------------
+
+Node 129:
+Regiment of Foot Stationed in Khypris The Border Princes ~
+
+32nd Sigmarz
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 129)
+LENGTH: 72
+
+--------------------------------------------------
+
+Node 130:
+eit,
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 130)
+LENGTH: 4
+
+--------------------------------------------------
+
+Node 131:
+2511 I C
+
+My Lord Konrad von Siert,
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 131)
+LENGTH: 35
+
+--------------------------------------------------
+
+Node 132:
+Baron of Siert and Castellan of Ostergrootsch, Greetings and salutations,
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 132)
+LENGTH: 73
+
+--------------------------------------------------
+
+Node 133:
+~ ~
+
+Herein find a summons and general information concerning the Empire, your homeland.
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 133)
+LENGTH: 88
+
+--------------------------------------------------
+
+Node 134:
+I am instructed to inform you that your lord and father, Duke Ottokar von Siert,
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 134)
+LENGTH: 80
+
+--------------------------------------------------
+
+Node 135:
+officially recognises your claim to inherit his land and titles within the Reikland,
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 135)
+LENGTH: 84
+
+--------------------------------------------------
+
+Node 136:
+and orders you to his side.
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 136)
+LENGTH: 27
+
+--------------------------------------------------
+
+Node 137:
+Your exile in the Border Princes is at an end, and you must make immediate preparations for departure.
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 137)
+LENGTH: 102
+
+--------------------------------------------------
+
+Node 138:
+~ ~
+
+In his wisdom, your father has employed an armed escort to assist.
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 138)
+LENGTH: 71
+
+--------------------------------------------------
+
+Node 139:
+I am in command, and, Sigmar willing, will arrive sometime near Sonnestill.
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 139)
+LENGTH: 75
+
+--------------------------------------------------
+
+Node 140:
+You will leave with us for the Imperial capital the following morning. Surely,
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 140)
+LENGTH: 78
+
+--------------------------------------------------
+
+Node 141:
+such news will fill your young heart with joy, for you will finally witness the splendour of the
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 141)
+LENGTH: 96
+
+--------------------------------------------------
+
+Node 142:
+greatest city in the Old World: Altdorf the magnificent,
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 142)
+LENGTH: 56
+
+--------------------------------------------------
+
+Node 143:
+seat of Emperor Karl-Franz I and the Grand Theogonist of Sigmar,
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 143)
+LENGTH: 64
+
+--------------------------------------------------
+
+Node 144:
+and current residence of House Siert,
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 144)
+LENGTH: 37
+
+--------------------------------------------------
+
+Node 145:
+where your father holds court not far from the Imperial Zoo on Goellner Hill.
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 145)
+LENGTH: 77
+
+--------------------------------------------------
+
+Node 146:
+~
+
+I shall also take your education in hand.
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 146)
+LENGTH: 44
+
+--------------------------------------------------
+
+Node 147:
+Those advising your father believe the present tuition you receive from Colonel Sievers, whilst certainly admirable, is too
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 147)
+LENGTH: 123
+
+--------------------------------------------------
+
+Node 148:
+focussed on southern matters as epitomised by Holy Myrmidia - a goddess without reproach when
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 148)
+LENGTH: 93
+
+--------------------------------------------------
+
+Node 149:
+it comes to the military, I'm sure,
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 149)
+LENGTH: 35
+
+--------------------------------------------------
+
+Node 150:
+but hardly an expert concerning Reiklander rulership. It was decided by your father's advisors that
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 150)
+LENGTH: 99
+
+--------------------------------------------------
+
+Node 151:
+a true devotee of Sigmar - the Empire's patron deity - should promptly take charge of your
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 151)
+LENGTH: 90
+
+--------------------------------------------------
+
+Node 152:
+education.
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 152)
+LENGTH: 10
+
+--------------------------------------------------
+
+Node 153:
+Your father, of course, agreed, for the Cult of Sigmar should always be heeded.
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 153)
+LENGTH: 79
+
+--------------------------------------------------
+
+Node 154:
+~ ~ ~
+
+Sadly, I must report poor Sister Bartalin,
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 154)
+LENGTH: 49
+
+--------------------------------------------------
+
+Node 155:
+the nun assigned to this important duty,
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 155)
+LENGTH: 40
+
+--------------------------------------------------
+
+Node 156:
+passed through Morr's Portal when our party was but five days from Altdorf.
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 156)
+LENGTH: 75
+
+--------------------------------------------------
+
+Node 157:
+She was the victim of a most unfortunate accident involving a bedpan, a wilted stick of celery,
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 157)
+LENGTH: 95
+
+--------------------------------------------------
+
+Node 158:
+and a nasty fall. Thus, I humbly take her stead.
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 158)
+LENGTH: 48
+
+--------------------------------------------------
+
+Node 159:
+For, no matter my feelings on the subject, your schooling is imperative;
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 159)
+LENGTH: 72
+
+--------------------------------------------------
+
+Node 160:
+you have yet to set foot in the Empire, and you will be lost without proper instruction.
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 160)
+LENGTH: 88
+
+--------------------------------------------------
+
+Node 161:
+~ ~
+
+Before we begin, let us turn to introductions: I am Guardian Alanna Graumann
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 161)
+LENGTH: 81
+
+--------------------------------------------------
+
+Node 162:
+of the Grey Order - and let me pre-empt your assumptions: yes, I am a witch;
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 162)
+LENGTH: 76
+
+--------------------------------------------------
+
+Node 163:
+and, yes, my name is a pseudonym.
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 163)
+LENGTH: 33
+
+--------------------------------------------------
+
+Node 164:
+I have been in the service of your father for over fifteen years, acting as an aide,
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 164)
+LENGTH: 84
+
+--------------------------------------------------
+
+Node 165:
+military advisor, and bodyguard, amongst other things, and am now charged to ensure you,
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 165)
+LENGTH: 88
+
+--------------------------------------------------
+
+Node 166:
+his newly declared heir, reach Altdorf alive.
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 166)
+LENGTH: 45
+
+--------------------------------------------------
+
+Node 167:
+To guarantee this I will, as mentioned, attend to your education, which will start immediately. ~
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 167)
+LENGTH: 97
+
+--------------------------------------------------
+
+Node 168:
+~ ~ ~
+
+#### Forget What You Know
+
+There are several matters I would have you consider before I
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 168)
+LENGTH: 94
+
+--------------------------------------------------
+
+Node 169:
+arrive in Khypris.
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 169)
+LENGTH: 18
+
+--------------------------------------------------
+
+Node 170:
+You likely think life in the Empire will be much the same as the sunny lifestyle you currently enjoy in the
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 170)
+LENGTH: 107
+
+--------------------------------------------------
+
+Node 171:
+Border Princes - after all, there are the same eight days in the week,
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 171)
+LENGTH: 70
+
+--------------------------------------------------
+
+Node 172:
+the same sun and moons, and the same gods.
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 172)
+LENGTH: 42
+
+--------------------------------------------------
+
+Node 173:
+I regret to inform you such presumptions are incorrect: the Empire is not like the Border Princes,
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 173)
+LENGTH: 98
+
+--------------------------------------------------
+
+Node 174:
+and you are ill-prepared for the threats it hides.
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 174)
+LENGTH: 50
+
+--------------------------------------------------
+
+Node 175:
+Put plainly: you are not safe,
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 175)
+LENGTH: 30
+
+--------------------------------------------------
+
+Node 176:
+and most of what you think you know will lead you to danger.
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 176)
+LENGTH: 60
+
+--------------------------------------------------
+
+Node 177:
+~ ~
+
+#### The Gods
+
+As you know,
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 177)
+LENGTH: 32
+
+--------------------------------------------------
+
+Node 178:
+throughout the Old World folk freely worship many different gods, most commonly those directly impacting their daily lives.
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 178)
+LENGTH: 123
+
+--------------------------------------------------
+
+Node 179:
+So, if someone is hurt, one prays to Shallya, Goddess of Healing and Mercy;
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 179)
+LENGTH: 75
+
+--------------------------------------------------
+
+Node 180:
+when a hunt fails, one prays to Taal, God of Animals and Wild Places;
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 180)
+LENGTH: 69
+
+--------------------------------------------------
+
+Node 181:
+and if crops should wither, one turns to Rhya,
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 181)
+LENGTH: 46
+
+--------------------------------------------------
+
+Node 182:
+Goddess of Life and Fertility.
+
+But in your homeland,
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 182)
+LENGTH: 53
+
+--------------------------------------------------
+
+Node 183:
+one god rises head and shoulders above the others: Sigmar, who founded the Empire when mortal,
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 183)
+LENGTH: 94
+
+--------------------------------------------------
+
+Node 184:
+and now stands as its patron deity.
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 184)
+LENGTH: 35
+
+--------------------------------------------------
+
+Node 185:
+In the grand province where your lands lie, the Reikland,
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 185)
+LENGTH: 57
+
+--------------------------------------------------
+
+Node 186:
+the Cult of Sigmar dominates: every village has a temple, every town has several,
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 186)
+LENGTH: 81
+
+--------------------------------------------------
+
+Node 187:
+and the capital, Altdorf,
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 187)
+LENGTH: 25
+
+--------------------------------------------------
+
+Node 188:
+has more holy sites dedicated to Sigmar than any bother to count. Each Festag (what the
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 188)
+LENGTH: 87
+
+--------------------------------------------------
+
+Node 189:
+locals call the last day of the week - the one you call 'Holiday'),
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 189)
+LENGTH: 67
+
+--------------------------------------------------
+
+Node 190:
+all are expected to attend 'throng' at a local temple,
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 190)
+LENGTH: 54
+
+--------------------------------------------------
+
+Node 191:
+where Sigmar's priests preach lessons concerning the founder of the Empire,
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 191)
+LENGTH: 75
+
+--------------------------------------------------
+
+Node 192:
+he who wielded the Warhammer.
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 192)
+LENGTH: 29
+
+--------------------------------------------------
+
+Node 193:
+Further,
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 193)
+LENGTH: 8
+
+--------------------------------------------------
+
+Node 194:
+many temples require all able-bodied folk to train at arms weekly with the local priests or their representatives,
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 194)
+LENGTH: 114
+
+--------------------------------------------------
+
+Node 195:
+forming the core of local militias to support the State Armies.
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 195)
+LENGTH: 63
+
+--------------------------------------------------
+
+Node 196:
+In larger towns and cities, it is only the faithful and the lost that attend these weekly duties,
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 196)
+LENGTH: 97
+
+--------------------------------------------------
+
+Node 197:
+but in rural areas, any not attending are viewed with deep suspicion.
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 197)
+LENGTH: 69
+
+--------------------------------------------------
+
+Node 198:
+Trust me, my lord, this is a cult you will need to understand,
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 198)
+LENGTH: 62
+
+--------------------------------------------------
+
+Node 199:
+for most folk of the Reikland are ingrained with its customs,
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 199)
+LENGTH: 61
+
+--------------------------------------------------
+
+Node 200:
+and you must appear to be, also.
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 200)
+LENGTH: 32
+
+--------------------------------------------------
+
+Node 201:
+You may think you understand Sigmar because there is a shrine in Khypris.
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 201)
+LENGTH: 73
+
+--------------------------------------------------
+
+Node 202:
+You do not. ~ ~ ~ ~
+
+#### Witches
+
+One cannot talk of Sigmar without
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 202)
+LENGTH: 68
+
+--------------------------------------------------
+
+Node 203:
+also discussing witches - those able to use magic.
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 203)
+LENGTH: 50
+
+--------------------------------------------------
+
+Node 204:
+Obviously, it's a subject close to my heart, although I prefer to be called a Magister,
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 204)
+LENGTH: 87
+
+--------------------------------------------------
+
+Node 205:
+as I am trained by the Colleges of Magic.
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 205)
+LENGTH: 41
+
+--------------------------------------------------
+
+Node 206:
+The folk of the Empire, like all peoples of the Old World, are solid and practical,
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 206)
+LENGTH: 83
+
+--------------------------------------------------
+
+Node 207:
+and quick to remove dangerous elements from their communities.
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 207)
+LENGTH: 62
+
+--------------------------------------------------
+
+Node 208:
+Given the Cult of Sigmar preaches that Sigmar was tempted and betrayed by evil witches,
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 208)
+LENGTH: 87
+
+--------------------------------------------------
+
+Node 209:
+it will come as no surprise that in areas of strong Sigmar worship,
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 209)
+LENGTH: 67
+
+--------------------------------------------------
+
+Node 210:
+witches are not just viewed with suspicion, they are vilified.
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 210)
+LENGTH: 62
+
+--------------------------------------------------
+
+Node 211:
+Fortunately, the talent for witchery is very rare,
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 211)
+LENGTH: 50
+
+--------------------------------------------------
+
+Node 212:
+but for those born with it any unexpected manifestation of their arcane powers may see them burned at the stake,
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 212)
+LENGTH: 112
+
+--------------------------------------------------
+
+Node 213:
+even if Imperial Law states they should be taken to the Colleges of Magic.
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 213)
+LENGTH: 74
+
+--------------------------------------------------
+
+Node 214:
+~ ~ ~
+
+#### The Colleges of Magic
+
+There is no formal centre of magical learning in the Border
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 214)
+LENGTH: 94
+
+--------------------------------------------------
+
+Node 215:
+Princes. Those able to do magic either work it out independently, accidentally kill themselves,
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 215)
+LENGTH: 95
+
+--------------------------------------------------
+
+Node 216:
+are hunted down, or find a master to teach them.
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 216)
+LENGTH: 48
+
+--------------------------------------------------
+
+Node 217:
+Most such masters practice ancient forms of magic that are certainly dangerous,
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 217)
+LENGTH: 79
+
+--------------------------------------------------
+
+Node 218:
+ranging from supposedly benign hedge witches and seers to those who risk their very souls,
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 218)
+LENGTH: 90
+
+--------------------------------------------------
+
+Node 219:
+including power-blinded fools like necromancers and daemonologists.
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 219)
+LENGTH: 67
+
+--------------------------------------------------
+
+Node 220:
+In the Empire, it's very different.
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 220)
+LENGTH: 35
+
+--------------------------------------------------
+
+Node 221:
+To practice any magic you must have a licence, and the only way to secure one is to be a
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 221)
+LENGTH: 88
+
+--------------------------------------------------
+
+Node 222:
+graduated Wizard of the Colleges of Magic in Altdorf,
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 222)
+LENGTH: 53
+
+--------------------------------------------------
+
+Node 223:
+or be an Elf -they receive special dispensation for their part in founding the Colleges - assuming they register
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 223)
+LENGTH: 112
+
+--------------------------------------------------
+
+Node 224:
+with the Colleges, of course.
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 224)
+LENGTH: 29
+
+--------------------------------------------------
+
+Node 225:
+If you have no licence and cast magic, you are breaking the law and should be either taken to the
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 225)
+LENGTH: 97
+
+--------------------------------------------------
+
+Node 226:
+Colleges for proper training or tried as a criminal.
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 226)
+LENGTH: 52
+
+--------------------------------------------------
+
+Node 227:
+Most commonly, illegal witches are tried by mob and lynched.
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 227)
+LENGTH: 60
+
+--------------------------------------------------
+
+Node 228:
+Which, to be clear, is also illegal,
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 228)
+LENGTH: 36
+
+--------------------------------------------------
+
+Node 229:
+although few are punished for this crime as most would prefer to see a witch dead,
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 229)
+LENGTH: 82
+
+--------------------------------------------------
+
+Node 230:
+regardless of the legality.
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 230)
+LENGTH: 27
+
+--------------------------------------------------
+
+Node 231:
+While murdering suspected witches may sound extreme to your ears,
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 231)
+LENGTH: 65
+
+--------------------------------------------------
+
+Node 232:
+there are good reasons for caution: all witches channel the Winds of Magic,
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 232)
+LENGTH: 75
+
+--------------------------------------------------
+
+Node 233:
+invisible flows of power that course across the world,
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 233)
+LENGTH: 54
+
+--------------------------------------------------
+
+Node 234:
+and many claim these Winds originate from the Ruinous Powers.
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 234)
+LENGTH: 61
+
+--------------------------------------------------
+
+Node 235:
+~ ~ ~ ~ ~
+
+#### The Ruinous Powers
+
+The less I speak of this the better,
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 235)
+LENGTH: 72
+
+--------------------------------------------------
+
+Node 236:
+and might I suggest you never speak of it.
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 236)
+LENGTH: 42
+
+--------------------------------------------------
+
+Node 237:
+There is always something listening.
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 237)
+LENGTH: 36
+
+--------------------------------------------------
+
+Node 238:
+At its simplest, whatever your current tutors pretend, the dark gods do exist.
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 238)
+LENGTH: 78
+
+--------------------------------------------------
+
+Node 239:
+They whisper of the ruination of all things, and too many fools listen.
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 239)
+LENGTH: 71
+
+--------------------------------------------------
+
+Node 240:
+But do the Winds of Magic blow from the Ruinous Powers, turning good folk into witches,
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 240)
+LENGTH: 87
+
+--------------------------------------------------
+
+Node 241:
+and twisting minds and flesh in their wake ? That's not a question I think I can answer.
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 241)
+LENGTH: 88
+
+--------------------------------------------------
+
+Node 242:
+What I can say is that the dark gods' influence is felt at all levels of society,
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 242)
+LENGTH: 81
+
+--------------------------------------------------
+
+Node 243:
+and those drawing too close are always changed by what they encounter.
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 243)
+LENGTH: 70
+
+--------------------------------------------------
+
+Node 244:
+This is why folk are terrified of mutation: they believe it is a mark of damnation,
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 244)
+LENGTH: 83
+
+--------------------------------------------------
+
+Node 245:
+a sign the dark gods now hold your soul.
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 245)
+LENGTH: 40
+
+--------------------------------------------------
+
+Node 246:
+Even talking in the most general terms about such subjects may well bring you to the attention of the witch
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 246)
+LENGTH: 107
+
+--------------------------------------------------
+
+Node 247:
+hunters, so remain wary for signs of this dark corruption but do not betray that you are even aware of
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 247)
+LENGTH: 102
+
+--------------------------------------------------
+
+Node 248:
+its existence.
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 248)
+LENGTH: 14
+
+--------------------------------------------------
+
+Node 249:
+~ ~ ~
+
+#### The Powers That Be
+
+'In the Borderlands,
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 249)
+LENGTH: 52
+
+--------------------------------------------------
+
+Node 250:
+all may come to power, and all may come to rule!
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 250)
+LENGTH: 48
+
+--------------------------------------------------
+
+Node 251:
+In the Empire, we willingly wrap ourselves in chains!'
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 251)
+LENGTH: 54
+
+--------------------------------------------------
+
+Node 252:
+~
+
+Those were the ardent words of a young,
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 252)
+LENGTH: 42
+
+--------------------------------------------------
+
+Node 253:
+idealistic agitator I met in Wissenburg.
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 253)
+LENGTH: 40
+
+--------------------------------------------------
+
+Node 254:
+Consider what she says, for you will soon encounter those who believe it true.
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 254)
+LENGTH: 78
+
+--------------------------------------------------
+
+Node 255:
+In the Empire, you are born to a station,
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 255)
+LENGTH: 41
+
+--------------------------------------------------
+
+Node 256:
+and no amount of cleverness or capability will change what the gods plan,
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 256)
+LENGTH: 73
+
+--------------------------------------------------
+
+Node 257:
+or so those in power repeatedly claim.
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 257)
+LENGTH: 38
+
+--------------------------------------------------
+
+Node 258:
+If you are born noble, you are forever noble; born farming, forever farming.
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 258)
+LENGTH: 76
+
+--------------------------------------------------
+
+Node 259:
+And so it remains.
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 259)
+LENGTH: 18
+
+--------------------------------------------------
+
+Node 260:
+But as you personally know, my lord,
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 260)
+LENGTH: 36
+
+--------------------------------------------------
+
+Node 261:
+the chance offerings of birth can be changed and manipulated by forces far from divine.
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 261)
+LENGTH: 87
+
+--------------------------------------------------
+
+Node 262:
+And even in the Empire, new freedoms are being bought every day.
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 262)
+LENGTH: 64
+
+--------------------------------------------------
+
+Node 263:
+~
+
+#### The Cities and Towns
+
+For all the stratified layers of society are supposedly immutable,
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 263)
+LENGTH: 96
+
+--------------------------------------------------
+
+Node 264:
+the flourishing towns and cities of the Empire,
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 264)
+LENGTH: 47
+
+--------------------------------------------------
+
+Node 265:
+safely wrapped with high walls of stone and patrolled by liveried State Soldiers,
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 265)
+LENGTH: 81
+
+--------------------------------------------------
+
+Node 266:
+have allowed a new class of rich merchants and burghers to rise.
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 266)
+LENGTH: 64
+
+--------------------------------------------------
+
+Node 267:
+The Reikland, as the richest of all the Empire's grand provinces,
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 267)
+LENGTH: 65
+
+--------------------------------------------------
+
+Node 268:
+has a growing 'middle' class of such enormity it frequently rises to prominence,
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 268)
+LENGTH: 80
+
+--------------------------------------------------
+
+Node 269:
+with rich individuals buying their way to freedom and power.
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 269)
+LENGTH: 60
+
+--------------------------------------------------
+
+Node 270:
+An example of this are towns called 'Freiburgs' or 'free towns',
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 270)
+LENGTH: 64
+
+--------------------------------------------------
+
+Node 271:
+meaning they selfgovern without significant interference from the nobility in return for services, military support,
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 271)
+LENGTH: 116
+
+--------------------------------------------------
+
+Node 272:
+or, most commonly, large quantities of coin.
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 272)
+LENGTH: 44
+
+--------------------------------------------------
+
+Node 273:
+Although the concept of a Freiburg is old,
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 273)
+LENGTH: 42
+
+--------------------------------------------------
+
+Node 274:
+never have so many been seen in such a small area as increasingly more towns are buying their freedom;
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 274)
+LENGTH: 102
+
+--------------------------------------------------
+
+Node 275:
+although all this seemingly changes nothing for those toiling in the fields.
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 275)
+LENGTH: 76
+
+--------------------------------------------------
+
+Node 276:
+~ ~ ~
+
+#### Rural Life ~
+
+Where the towns and cities are becoming freer,
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 276)
+LENGTH: 72
+
+--------------------------------------------------
+
+Node 277:
+it could be argued the opposite is the case for many rural communities.
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 277)
+LENGTH: 71
+
+--------------------------------------------------
+
+Node 278:
+Over two hundred years ago,
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 278)
+LENGTH: 27
+
+--------------------------------------------------
+
+Node 279:
+Emperor Magnus the Pious famously enshrined the rights of all to be paid for their labour,
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 279)
+LENGTH: 90
+
+--------------------------------------------------
+
+Node 280:
+but many noble houses did not agree with this attack on their rights and continue to resist to this day.
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 280)
+LENGTH: 104
+
+--------------------------------------------------
+
+Node 281:
+~
+
+Enlightened provinces such as the lands ruled by your father, where farmers work land they lease,
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 281)
+LENGTH: 100
+
+--------------------------------------------------
+
+Node 282:
+selling any produce they harvest at local markets for personal profit, paying taxes as determined by the local authorities,
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 282)
+LENGTH: 123
+
+--------------------------------------------------
+
+Node 283:
+are widespread.
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 283)
+LENGTH: 15
+
+--------------------------------------------------
+
+Node 284:
+But in some isolated regions the peasantry are forced to slave on farms they do not own,
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 284)
+LENGTH: 88
+
+--------------------------------------------------
+
+Node 285:
+turning over almost all produce to their lieges,
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 285)
+LENGTH: 48
+
+--------------------------------------------------
+
+Node 286:
+living in total ignorance of the freedoms the Imperial Law grants them.
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 286)
+LENGTH: 71
+
+--------------------------------------------------
+
+Node 287:
+Many folk will put up with a lot so long as horns echo across the land each campaign season as noble
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 287)
+LENGTH: 100
+
+--------------------------------------------------
+
+Node 288:
+lords send the State Army to rid the encroaching forest of whatever foulness has gathered.
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 288)
+LENGTH: 90
+
+--------------------------------------------------
+
+Node 289:
+~ ~ ~ ~
+
+And it is there one of the greatest differences between your current home in
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 289)
+LENGTH: 85
+
+--------------------------------------------------
+
+Node 290:
+Khypris and Sigmar's Holy Empire lies: the endless forests.
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 290)
+LENGTH: 59
+
+--------------------------------------------------
+
+Node 291:
+The Empire is blanketed in dense woodlands, and few dare venture into their depths,
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 291)
+LENGTH: 83
+
+--------------------------------------------------
+
+Node 292:
+for their twisted branches hide far worse than simple bandits, beastmen, and forest goblins.
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 292)
+LENGTH: 92
+
+--------------------------------------------------
+
+Node 293:
+~
+
+#### Travel
+
+Bisecting the Border Princes,
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 293)
+LENGTH: 45
+
+--------------------------------------------------
+
+Node 294:
+the Khyprian Road is famous for its relative safety.
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 294)
+LENGTH: 52
+
+--------------------------------------------------
+
+Node 295:
+Its entire six-hundred mile length is cleared on both sides for many miles,
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 295)
+LENGTH: 75
+
+--------------------------------------------------
+
+Node 296:
+ensuring would-be bandits have few places to hide. The opposite circumstances apply in the Empire.
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 296)
+LENGTH: 98
+
+--------------------------------------------------
+
+Node 297:
+Almost all the major roads cut through thick forests with uncounted ambush points,
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 297)
+LENGTH: 82
+
+--------------------------------------------------
+
+Node 298:
+leaving travel by foot extraordinarily dangerous.
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 298)
+LENGTH: 49
+
+--------------------------------------------------
+
+Node 299:
+Thus, wealthy folk travel by river as most major towns are connected by river or canal,
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 299)
+LENGTH: 87
+
+--------------------------------------------------
+
+Node 300:
+and the major waterways of the Empire are often so wide you can barely see the opposite banks - let
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 300)
+LENGTH: 99
+
+--------------------------------------------------
+
+Node 301:
+alone any potential wreckers hiding in the rushes - making them significantly safer than tree-lined highways where bandits
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 301)
+LENGTH: 122
+
+--------------------------------------------------
+
+Node 302:
+lurk around every corner.
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 302)
+LENGTH: 25
+
+--------------------------------------------------
+
+Node 303:
+~ ~ ~ ~ ~
+
+Of course, sometimes a road journey is the only option,
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 303)
+LENGTH: 66
+
+--------------------------------------------------
+
+Node 304:
+especially when one is travelling to one of the many highland fortifications or mining towns.
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 304)
+LENGTH: 93
+
+--------------------------------------------------
+
+Node 305:
+In such circumstances, I recommend you travel by coach.
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 305)
+LENGTH: 55
+
+--------------------------------------------------
+
+Node 306:
+These not only provide comfortable travelling conditions between all major destinations,
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 306)
+LENGTH: 88
+
+--------------------------------------------------
+
+Node 307:
+but their routes are patrolled by road wardens, making them relatively safe.
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 307)
+LENGTH: 76
+
+--------------------------------------------------
+
+Node 308:
+The Empire is also significantly more civilised than the Border Princes, so boasts many reliable coaching houses.
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 308)
+LENGTH: 113
+
+--------------------------------------------------
+
+Node 309:
+~ ~ ~
+
+#### Patrols
+
+Recognising the threat posed by highway pillagers,
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 309)
+LENGTH: 71
+
+--------------------------------------------------
+
+Node 310:
+all the major roads of the Reikland are patrolled by mounted squads of road wardens.
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 310)
+LENGTH: 84
+
+--------------------------------------------------
+
+Node 311:
+Most are peacetime State Army cavalrymen put to use by local nobles,
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 311)
+LENGTH: 68
+
+--------------------------------------------------
+
+Node 312:
+but some are privately hired, often by merchant or coaching houses,
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 312)
+LENGTH: 67
+
+--------------------------------------------------
+
+Node 313:
+to better maintain the peace and protect expensive assets. When travelling away from the primary trade routes,
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 313)
+LENGTH: 110
+
+--------------------------------------------------
+
+Node 314:
+the roads are not so well maintained, and some are lucky to ever see a road warden,
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 314)
+LENGTH: 83
+
+--------------------------------------------------
+
+Node 315:
+so I suggest avoiding these dark corners of the Empire,
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 315)
+LENGTH: 55
+
+--------------------------------------------------
+
+Node 316:
+for the local folk are often all-too-quick to take offense, all your trappings,
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 316)
+LENGTH: 79
+
+--------------------------------------------------
+
+Node 317:
+and perhaps even your life.
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 317)
+LENGTH: 27
+
+--------------------------------------------------
+
+Node 318:
+~ ~ ~
+
+The rivers are similarly patrolled, but by strong-backed riverwardens in a variety
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 318)
+LENGTH: 89
+
+--------------------------------------------------
+
+Node 319:
+of different vessels ranging from small patrol boats to small warships called Shipswords.
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 319)
+LENGTH: 89
+
+--------------------------------------------------
+
+Node 320:
+These wardens are supported by the Imperial Navy, which is, against all the expectations of outsiders,
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 320)
+LENGTH: 102
+
+--------------------------------------------------
+
+Node 321:
+based in the Reiksport at Altdorf, hundreds of miles upriver from the sea.
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 321)
+LENGTH: 74
+
+--------------------------------------------------
+
+Node 322:
+The navy's large warships patrol the waters to Marienburg,
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 322)
+LENGTH: 58
+
+--------------------------------------------------
+
+Node 323:
+where the river Reik is often many miles wide, and very deep.
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 323)
+LENGTH: 61
+
+--------------------------------------------------
+
+Node 324:
+~
+
+#### The Law
+
+The powers granted to wardens patrolling the rivers and roads,
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 324)
+LENGTH: 79
+
+--------------------------------------------------
+
+Node 325:
+and to the watch patrolling the streets of the Empire's towns and cities,
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 325)
+LENGTH: 73
+
+--------------------------------------------------
+
+Node 326:
+vary significantly from province to province.
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 326)
+LENGTH: 45
+
+--------------------------------------------------
+
+Node 327:
+Small infractions of the law normally result in stern words and spot fines,
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 327)
+LENGTH: 75
+
+--------------------------------------------------
+
+Node 328:
+most of which never leave the pocket of the lawman concerned.
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 328)
+LENGTH: 61
+
+--------------------------------------------------
+
+Node 329:
+In larger towns and cities,
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 329)
+LENGTH: 27
+
+--------------------------------------------------
+
+Node 330:
+it is also common to find petty courts run by watch captains who judge cases brought before them,
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 330)
+LENGTH: 97
+
+--------------------------------------------------
+
+Node 331:
+handing out fines of a shilling or two for most misdeeds,
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 331)
+LENGTH: 57
+
+--------------------------------------------------
+
+Node 332:
+with serious crimes referred to a higher authority.
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 332)
+LENGTH: 51
+
+--------------------------------------------------
+
+Node 333:
+For such crimes, the accused is taken before a local court, most commonly officiated by a judge,
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 333)
+LENGTH: 96
+
+--------------------------------------------------
+
+Node 334:
+noble, magistrate, or a cleric of the Goddess of Justice, Verena.
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 334)
+LENGTH: 65
+
+--------------------------------------------------
+
+Node 335:
+These trials are rarely fair, so it is wise to never let matters proceed so far.
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 335)
+LENGTH: 80
+
+--------------------------------------------------
+
+Node 336:
+~
+
+As a lord of the Reikland, you cannot be tried by a normal court,
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 336)
+LENGTH: 68
+
+--------------------------------------------------
+
+Node 337:
+so should you ever find yourself accused, do not be afraid to make your birthright known.
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 337)
+LENGTH: 89
+
+--------------------------------------------------
+
+Node 338:
+Should I not be with you, send word to the Grey College and ask for me by name.
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 338)
+LENGTH: 79
+
+--------------------------------------------------
+
+Node 339:
+I will come.
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 339)
+LENGTH: 12
+
+--------------------------------------------------
+
+Node 340:
+To be sure you understand, only your father, as your lord, has the right to judge you.
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 340)
+LENGTH: 86
+
+--------------------------------------------------
+
+Node 341:
+However, another noble may appeal against your father's judgement; should this occur, only the High Lord
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 341)
+LENGTH: 104
+
+--------------------------------------------------
+
+Node 342:
+Steward of the Reikland has the right to overrule your father in matters of criminal law.
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 342)
+LENGTH: 89
+
+--------------------------------------------------
+
+Node 343:
+~
+
+But such almost never happens.
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 343)
+LENGTH: 33
+
+--------------------------------------------------
+
+Node 344:
+The High Lord Steward has not held court for over fifty years,
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 344)
+LENGTH: 62
+
+--------------------------------------------------
+
+Node 345:
+for most nobles are too powerful to bring to task.
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 345)
+LENGTH: 50
+
+--------------------------------------------------
+
+Node 346:
+Instead, deals are made, charges are dropped, and the problems disappear.
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 346)
+LENGTH: 73
+
+--------------------------------------------------
+
+Node 347:
+#### Be Careful
+
+So, given the many risks,
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 347)
+LENGTH: 42
+
+--------------------------------------------------
+
+Node 348:
+I hope you can understand why your father sends an escort to ensure your safety.
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 348)
+LENGTH: 80
+
+--------------------------------------------------
+
+Node 349:
+Your inexperience with the folk of the Empire could easily lead to disaster.
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 349)
+LENGTH: 76
+
+--------------------------------------------------
+
+Node 350:
+For all you may think a local watchman is there to help you,
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 350)
+LENGTH: 60
+
+--------------------------------------------------
+
+Node 351:
+or a riverwarden seems a helpful fellow,
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 351)
+LENGTH: 40
+
+--------------------------------------------------
+
+Node 352:
+they may be as corrupt as the folk they are tasked to detain. This is why I come.
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 352)
+LENGTH: 81
+
+--------------------------------------------------
+
+Node 353:
+Let my experience be your teacher, so you need not learn from your own errors,
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 353)
+LENGTH: 78
+
+--------------------------------------------------
+
+Node 354:
+which could prove fatal.
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 354)
+LENGTH: 24
+
+--------------------------------------------------
+
+Node 355:
+There is a reason I use a pseudonym,
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 355)
+LENGTH: 36
+
+--------------------------------------------------
+
+Node 356:
+and why I feel it is important not to say aught openly.
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 356)
+LENGTH: 55
+
+--------------------------------------------------
+
+Node 357:
+~
+
+There is, after all, hidden motivations behind all matters. Even this letter.
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 357)
+LENGTH: 80
+
+--------------------------------------------------
+
+Node 358:
+~
+
+I look forward to seeing you when you understand. Be careful.
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 358)
+LENGTH: 64
+
+--------------------------------------------------
+
+Node 359:
+With faith,
+
+A Grau ma n n
+
+Grey Guardian Alanna Graumann Your servant and guardian.
+{'filename': 'the_empire.md', 'extension': '.md'}
+(INDEX: 359)
+LENGTH: 84
+
+--------------------------------------------------
+
