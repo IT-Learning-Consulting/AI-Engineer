@@ -15,10 +15,10 @@ Date: 2025-04-21
 Version: 1.0
 """
 
+from pathlib import Path
 from llama_index.core import Settings
 from llama_index.core.node_parser import SentenceSplitter
 from llama_index.readers.file import FlatReader
-from pathlib import Path
 from llama_index.llms.openai import OpenAI
 
 # Set the global LLM to GPT-4.1-Nano
